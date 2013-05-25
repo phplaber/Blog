@@ -2,6 +2,8 @@
 
 当你被迷茫，痛苦，挣扎以及其它各种负面情绪包围的时候，不妨静下心来，找个安静的角落，用心的看一部有“营养”的电影。我保证，你能有所收获。
 
+下面是转载的网友总结的22部电影中的经典台词，每句都充满着美与智慧。让我们一起用心来感受下：
+
 * * *
 
 《22部经典电影 告诉你22句人生箴言》
@@ -100,8 +102,8 @@
 
 #### 十，《初恋50次》 ####
 
-    年轻的时候会想要谈很多次恋爱，但是随着年龄的增长，终于领悟到爱一个人，就算用一辈子的时间，还是会嫌不够。慢慢地去了解这个人，体谅这个人，直  
-    到爱上为止，是需要有非常宽大的胸襟才行。
+    年轻的时候会想要谈很多次恋爱，但是随着年龄的增长，终于领悟到爱一个人，就算用一辈子的时间，还是会嫌不够。慢慢地去了解这个人，体谅这个人，  
+    直到爱上为止，是需要有非常宽大的胸襟才行。
 
     When you are young, you may want several love experiences. But as time goes on, you will realize that if you really  
     love someone, the whole life will not be enough. You need time to know, to forgive and to love.All this needs a  
@@ -155,8 +157,8 @@
 
 #### 十五，《冷山》 ####
 
-    在自己面前，应该一直留有一个地方，独自留在那里。然后去爱。不知道是什么，不知道是谁，不知道如何去爱，也不知道可以爱多久。只是等待一次爱情，  
-    也许永远都没有人。可是，这种等待，就是爱情本身。
+    在自己面前，应该一直留有一个地方，独自留在那里。然后去爱。不知道是什么，不知道是谁，不知道如何去爱，也不知道可以爱多久。只是等待一次  
+    爱情，也许永远都没有人。可是，这种等待，就是爱情本身。
 
     We shall always save a place for ourselves, only for ourselves. And then begin to love. Have no idea of what it is,  
     who he is, how to love or how long it will be. Just wait for one love. Maybe no one will come out, but this kind  
@@ -167,8 +169,8 @@
 
 #### 十六，《天使爱美丽》 ####
 
-    有谁不曾为那暗恋而痛苦？我们总以为那份痴情很重，很重，是世上最重的重量。有一天，暮然回首，我们才发现，它一直都是很轻，很轻的。我们以为爱的  
-    很深，很深，来日岁月，会让你知道，它不过很浅，很浅。最深和最重的爱，必须和时日一起成长。
+    有谁不曾为那暗恋而痛苦？我们总以为那份痴情很重，很重，是世上最重的重量。有一天，暮然回首，我们才发现，它一直都是很轻，很轻的。我们以为  
+    爱的很深，很深，来日岁月，会让你知道，它不过很浅，很浅。最深和最重的爱，必须和时日一起成长。
 
     Is there anyone who hasn’t suffered for the secret love? We always think that love is very heavy, heavy and could 
     be the heaviest thing in the world. But one day, when you look back, you suddenly realize that it’s always light,  
