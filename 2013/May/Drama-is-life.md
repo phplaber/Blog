@@ -43,8 +43,8 @@
 
     爱情是灯，友情是影子，当灯灭了，你会发现你的周围都是影子。朋友，是在最后可以给你力量的人。
 
-    Love is a lamp, while friendship is the shadow. When the lamp is off,you will find the shadow everywhere. Friend is who  
-    can give you strength at last.
+    Love is a lamp, while friendship is the shadow. When the lamp is off,you will find the shadow everywhere. Friend is  
+    who can give you strength at last.
 
 ![alt When Harry Met Sally](http://b252.photo.store.qq.com/psb?/V10i9NzB0PWVyC/7bAp4VCb6ZWhOCo.QLRoHLeh4d8SUpjO74yhQrjd5wc!/b/dMnLO5Z.GwAA&bo=cwHEAQAAAAABAJA! "When Harry Met Sally")
 
@@ -79,11 +79,11 @@
 
 #### 八，《廊桥遗梦》 ####
 
-    我们每个人都生活在各自的过去中，人们会用一分钟的时间去认识一个人，用一小时的时间去喜欢一个人，再用一天的时间去爱上一个人，到最后呢，却要用  
-    一辈子的时间去忘记一个人。
+    我们每个人都生活在各自的过去中，人们会用一分钟的时间去认识一个人，用一小时的时间去喜欢一个人，再用一天的时间去爱上一个人，到最后呢，却要  
+    用一辈子的时间去忘记一个人。
 
-    We all live in the past. We take a minute to know someone, one hour to like someone, and one day to love someone, but  
-    the whole life to forget someone.
+    We all live in the past. We take a minute to know someone, one hour to like someone, and one day to love someone,  
+    but the whole life to forget someone.
 
 ![alt The Bridges of Madison County](http://b250.photo.store.qq.com/psb?/V10i9NzB0PWVyC/Yavb..HfMndoSzRtc*91Zen.yXzN8PDpALx9Ma6ePkI!/b/dJ0mDJVZKQAA&bo=cQHKAQAAAAABAJw! "The Bridges of Madison County")
 
@@ -103,8 +103,9 @@
     年轻的时候会想要谈很多次恋爱，但是随着年龄的增长，终于领悟到爱一个人，就算用一辈子的时间，还是会嫌不够。慢慢地去了解这个人，体谅这个人，直  
     到爱上为止，是需要有非常宽大的胸襟才行。
 
-    When you are young, you may want several love experiences. But as time goes on, you will realize that if you really love  
-    someone, the whole life will not be enough. You need time to know, to forgive and to love.All this needs a very big mind.
+    When you are young, you may want several love experiences. But as time goes on, you will realize that if you really  
+    love someone, the whole life will not be enough. You need time to know, to forgive and to love.All this needs a  
+    very big mind.
 
 ![alt 50 First Dates](http://b254.photo.store.qq.com/psb?/V10i9NzB0PWVyC/ffrE5Tb4.r*j5R0*IRho*ejM.R8FMBP1osXSRVhBCeY!/b/dA6pdJf5IAAA&bo=YQHGAQAAAAABAIA! "50 First Dates")
 
@@ -157,9 +158,9 @@
     在自己面前，应该一直留有一个地方，独自留在那里。然后去爱。不知道是什么，不知道是谁，不知道如何去爱，也不知道可以爱多久。只是等待一次爱情，  
     也许永远都没有人。可是，这种等待，就是爱情本身。
 
-    We shall always save a place for ourselves, only for ourselves. And then begin to love. Have no idea of what it is, who  
-    he is, how to love or how long it will be. Just wait for one love. Maybe no one will come out, but this kind of waiting  
-    is the love itself.
+    We shall always save a place for ourselves, only for ourselves. And then begin to love. Have no idea of what it is,  
+    who he is, how to love or how long it will be. Just wait for one love. Maybe no one will come out, but this kind  
+    of waiting is the love itself.
 
 ![alt Cold Mountain](http://b252.photo.store.qq.com/psb?/V10i9NzB0PWVyC/jHUBpaFW5ohu2UY2u9FiM7eSYAXpEVnyg.64JiBWfRM!/b/dNPfO5ZaHgAA&bo=aQHHAQAAAAABAIk! "Cold Mountain")
 
@@ -169,9 +170,10 @@
     有谁不曾为那暗恋而痛苦？我们总以为那份痴情很重，很重，是世上最重的重量。有一天，暮然回首，我们才发现，它一直都是很轻，很轻的。我们以为爱的  
     很深，很深，来日岁月，会让你知道，它不过很浅，很浅。最深和最重的爱，必须和时日一起成长。
 
-    Is there anyone who hasn’t suffered for the secret love? We always think that love is very heavy, heavy and could be the  
-    heaviest thing in the world. But one day, when you look back, you suddenly realize that it’s always light, light. We all  
-    thought love was very deep, but in fact it’s very thin. The deepest and heaviest love must grow up with the time.
+    Is there anyone who hasn’t suffered for the secret love? We always think that love is very heavy, heavy and could 
+    be the heaviest thing in the world. But one day, when you look back, you suddenly realize that it’s always light,  
+    light. We all thought love was very deep, but in fact it’s very thin. The deepest and heaviest love must grow up  
+    with the time.
 
 ![alt Amelie](http://b251.photo.store.qq.com/psb?/V10i9NzB0PWVyC/SCUAdb7rhkrNj3OEltNXVpE.xNy7iYLv9djY*lPl6.I!/b/dF9dqZWBJwAA&bo=XQHHAQAAAAABAL0! "Amelie")
 
@@ -227,8 +229,8 @@
 
 #### 二十二，《看得见风景的房间》 ####
 
-    当你的心真的在痛，眼泪快要流下来的时候，那就赶快抬头看看，这片曾经属于我们的天空；当天依旧是那么的广阔，云依旧那么的潇洒，那就不应该哭，因为  
-    我的离去，并没有带走你的世界。
+    当你的心真的在痛，眼泪快要流下来的时候，那就赶快抬头看看，这片曾经属于我们的天空；当天依旧是那么的广阔，云依旧那么的潇洒，那就不应该哭，  
+    因为我的离去，并没有带走你的世界。
 
     When you feel hurt and your tears are gonna to drop. Please look up and have a look at the sky once belongs to us. If  
     the sky is still vast , clouds are still clear, you shall not cry because my leave doesn’t take away the world that  
