@@ -4,14 +4,15 @@
 
 ******
 
-** Do things that don't scale **
+**Do things that don't scale**
+
 by Paul Graham
 
 原文地址：[Do things that don't scale](http://paulgraham.com/ds.html)
 
 译文地址：[从点滴做起](http://www.weixinla.com/document/154653/)
 
-** 「初创企业的成功，关键在于创业者的推动。」**
+**「初创企业的成功，关键在于创业者的推动。」**
 
 #### 找到用户 ####
 
