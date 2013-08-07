@@ -44,7 +44,7 @@
 
 	var_dump($result);
 
-#### Return ####
+#### Print array ####
 
 	array
 	  0 => 
