@@ -44,7 +44,7 @@
 
 #### 5，``uname`` ####
 
-「uname」代表 **Unix Name** 。执行命令会输出kernel类型。想要了解平台更多的信息，加上-a参数，即：「uname -a」。
+「uname」代表 **Unix Name** 。执行命令会输出kernel类型。想要了解平台更多的信息，加上-a参数，即：``uname -a``。
 
 	root@tecmint:~# uname -a
 
@@ -54,7 +54,7 @@ tecmint为机器的节点名称，i686为处理器体系架构。
 
 #### 6，``history`` ####
 
-「history」代表 **History (Event) Record** 。执行该命令将打印之前所有命令执行的记录。配合「Ctrl + R」可以迅速找到指定的执行命令。
+「history」代表 **History (Event) Record** 。执行该命令将打印之前所有命令执行的记录。配合``Ctrl + R``可以迅速找到指定的执行命令。
 
 #### 7，``sudo`` ####
 
@@ -80,7 +80,7 @@ tecmint为机器的节点名称，i686为处理器体系架构。
 
 #### 11，``chown`` ####
 
-「chown」代表 **change file owner and group** ，意思是：更改文件的所有者和组。语法：chown owner:group file。
+「chown」代表 **change file owner and group** ，意思是：更改文件的所有者和组。语法：``chown owner:group file``。
 
 #### 12，``apt`` ####
 
@@ -92,7 +92,7 @@ tecmint为机器的节点名称，i686为处理器体系架构。
 
 #### 14，``cal`` ####
 
-「cal」代表 **Calendar** ，用来展现当月日历，或任何过去和将来某月的日历。如：想知道1988年3月27日是星期几，可以通过执行命令：「cal 03 1988」来查看。
+「cal」代表 **Calendar** ，用来展现当月日历，或任何过去和将来某月的日历。如：想知道1988年3月27日是星期几，可以通过执行命令：``cal 03 1988``来查看。
 
 #### 15，``date`` ####
 
