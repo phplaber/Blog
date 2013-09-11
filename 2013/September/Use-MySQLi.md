@@ -17,15 +17,15 @@
 
 #### 实例 ####
 
-1. 需求描述
+##### 需求描述 #####
 
 有一条旅游线路，有线路编号（id），线路名称（route_name），价格（route_price）三个属性。在线路上会存在多个旅游景点，有所属线路编号（route_id），景点编号（spot_id），景点名称（spot_name）三个属性。在大数据的前提下，为了优化取产品的性能，需要将线路相关数据进行整合。
 
-2. 数据库设计
+##### 数据库设计 #####
 
 创建数据库routes，包含三张数据表：一张线路基础数据表（routes_basic），一张景点数据表（routes_spot），一张整合表（routes_all）。基础数据表和景点数据表通过线路编号（route_id）进行关联。创建三张表的SQL如下：
 
-2-1 表routes_basic
+1, 表routes_basic
 
     CREATE TABLE `routes_basic` (
      `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '线路编号',
@@ -34,7 +34,7 @@
      PRIMARY KEY (`id`)
     ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='线路基础数据表'
 
-2-2 表routes_spot
+2, 表routes_spot
 
     CREATE TABLE `routes_spot` (
      `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '景点ID',
@@ -43,7 +43,7 @@
      PRIMARY KEY (`id`)
     ) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8 COMMENT='景点数据表'
 
-2-3 表routes_all
+3, 表routes_all
 
     CREATE TABLE `routes_all` (
      `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
@@ -57,9 +57,9 @@
     ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='线路整合表'
 
 
-3. 代码实现
+##### 代码实现 #####
 
-3-1 数据库配置文件（db.conf.php）
+1, 数据库配置文件（db.conf.php）
 
 	<?php
 	// 数据库配置文件
@@ -70,7 +70,7 @@
 	define('DB_PASS',    '19880210');
 	define('DB_NAME',    'routes');
 
-3-2 执行脚本文件（merge_routes.php）
+2, 执行脚本文件（merge_routes.php）
 
 	<?php
 
@@ -113,15 +113,15 @@
 	}
 	$mysqli->close();
 
-3-3 运行脚本
+3, 运行脚本
 
 在CLI下运行脚本，在脚本路径下执行：``php merge_routes.php`` 命令，如图：
 
 ![alt run script](https://raw.github.com/phplaber/phplaber.github.com/master/images/graph_04.png 'run script')
 
-3-4 查看结果
+4, 查看结果
 
-1. mysql> select * from routes_basic;
+mysql> select * from routes_basic;
 
 	+----+------------------------------+-------------+
 	| id | route_name                   | route_price |
@@ -131,7 +131,7 @@
 	|  3 | 千岛湖中心湖区-森林氧吧2日游 |         367 |
 	+----+------------------------------+-------------+
 
-2. mysql> select * from routes_spot;
+mysql> select * from routes_spot;
 
 	+----+----------+------------+
 	| id | route_id | spot_name  |
@@ -147,7 +147,7 @@
 	|  9 |        3 | 千岛湖     |
 	+----+----------+------------+
 
-3. mysql> select * from routes_all;
+mysql> select * from routes_all;
 
 	+----+----------+------------------------------+-------------+---------+------------+---------------------+
 	| id | route_id | route_name                   | route_price | spot_id | spot_name  | update_time         |
