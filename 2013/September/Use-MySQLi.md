@@ -4,7 +4,7 @@
 
 > MySQLi扩展是在PHP使用的一个关系型数据库驱动类，它提供了操作MySQL的接口。MySQLi是老版本MySQL驱动类的改良版，提供了多方面的便利。当MySQL服务器的版本为4.1.3或更新（使用新功能）时，建议PHP开发者使用MySQLi。
 
->> 以上关于MySQLi介绍，来自[wikipedia::MySQLi](http://en.wikipedia.org/wiki/MySQLi "MySQLi")
+> 以上关于MySQLi介绍，来自[wikipedia::MySQLi](http://en.wikipedia.org/wiki/MySQLi "MySQLi")
 
 附：MySQLi提供的几个典型便利：
 
@@ -121,7 +121,7 @@
 
 4, 查看结果
 
-mysql> select * from routes_basic;
+``mysql> select * from routes_basic;``
 
 	+----+------------------------------+-------------+
 	| id | route_name                   | route_price |
@@ -131,7 +131,7 @@ mysql> select * from routes_basic;
 	|  3 | 千岛湖中心湖区-森林氧吧2日游 |         367 |
 	+----+------------------------------+-------------+
 
-mysql> select * from routes_spot;
+``mysql> select * from routes_spot;``
 
 	+----+----------+------------+
 	| id | route_id | spot_name  |
@@ -147,7 +147,7 @@ mysql> select * from routes_spot;
 	|  9 |        3 | 千岛湖     |
 	+----+----------+------------+
 
-mysql> select * from routes_all;
+``mysql> select * from routes_all;``
 
 	+----+----------+------------------------------+-------------+---------+------------+---------------------+
 	| id | route_id | route_name                   | route_price | spot_id | spot_name  | update_time         |
