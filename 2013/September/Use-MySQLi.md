@@ -25,7 +25,7 @@
 
 创建数据库routes，包含三张数据表：一张线路基础数据表（routes_basic），一张景点数据表（routes_spot），一张整合表（routes_all）。基础数据表和景点数据表通过线路编号（route_id）进行关联。创建三张表的SQL如下：
 
-* 表routes_basic
+2-1 表routes_basic
 
     CREATE TABLE `routes_basic` (
      `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '线路编号',
@@ -34,7 +34,7 @@
      PRIMARY KEY (`id`)
     ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='线路基础数据表'
 
-* 表routes_spot
+2-2 表routes_spot
 
     CREATE TABLE `routes_spot` (
      `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '景点ID',
@@ -43,7 +43,7 @@
      PRIMARY KEY (`id`)
     ) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8 COMMENT='景点数据表'
 
-* 表routes_all
+2-3 表routes_all
 
     CREATE TABLE `routes_all` (
      `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
@@ -59,7 +59,7 @@
 
 3. 代码实现
 
-* 数据库配置文件（db.conf.php）
+3-1 数据库配置文件（db.conf.php）
 
 	<?php
 	// 数据库配置文件
@@ -70,7 +70,7 @@
 	define('DB_PASS',    '19880210');
 	define('DB_NAME',    'routes');
 
-* 执行脚本文件（merge_routes.php）
+3-2 执行脚本文件（merge_routes.php）
 
 	<?php
 
@@ -113,13 +113,13 @@
 	}
 	$mysqli->close();
 
-* 运行脚本
+3-3 运行脚本
 
 在CLI下运行脚本，在脚本路径下执行：``php merge_routes.php`` 命令，如图：
 
 ![alt run script](https://raw.github.com/phplaber/phplaber.github.com/master/images/graph_04.png 'run script')
 
-* 查看结果
+3-4 查看结果
 
 1. mysql> select * from routes_basic;
 
