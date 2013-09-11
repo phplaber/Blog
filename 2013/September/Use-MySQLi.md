@@ -113,6 +113,8 @@
 	}
 	$mysqli->close();
 
+p.s. 代码在这里：[mysqli_demo](https://github.com/phplaber/mysqli_demo)
+
 3, 运行脚本
 
 在CLI下运行脚本，在脚本路径下执行：``php merge_routes.php`` 命令，如图：
