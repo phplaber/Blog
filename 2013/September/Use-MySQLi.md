@@ -75,10 +75,10 @@
 	<?php
 
 	// 整合产品基础数据和景点数据脚本
-
+	error_reporting(E_ALL);
 	require './db.conf.php';
 
-	$mysqli = @new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME, DB_PORT);
+	$mysqli = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME, DB_PORT);
 
 	if ($mysqli->connect_errno) {
 		die('Connect error: ' . $mysqli->connect_error);
