@@ -106,7 +106,8 @@
 			echo 'inserted route id: ' . $row['route_id'] . "\n";
 		}
 		$stmt->close();
-		unset($result);
+		//unset($result);
+		$result->free();	// more strong
 	} else {
 		trigger_error($mysqli->error . "[$sql_insert]");
 		exit;
