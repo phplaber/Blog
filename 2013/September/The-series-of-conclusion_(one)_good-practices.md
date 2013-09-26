@@ -6,11 +6,11 @@
 
 ******
 
-** Your Common Sense ** 的答案有三点我觉得非常可取的地方：
+**Your Common Sense** 的答案有三点我觉得非常可取的地方：
 
 #### 一，构造数组的方式 ####
 
-** 好的实践 ** （作者的做法）：
+**好的实践** （作者的做法）：
 
 	$arrChartData[] = array();
 	...
@@ -18,7 +18,7 @@
 	    $arrChartData[] = $row;
 	}
 
-** 坏的实践 ** ：
+**坏的实践** ：
 
 	$arrChartData = array();
 	$i = 0;
