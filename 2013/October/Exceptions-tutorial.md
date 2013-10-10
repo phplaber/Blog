@@ -6,7 +6,7 @@
 
 还可以用异常来清理一段代码中存在的杂乱逻辑。异常的基本结构是：子程序使用throw抛出一个异常对象，再被调用链上层其他子程序的try-catch语句捕获。
 
-维基百科：[更多]（http://en.wikipedia.org/wiki/Exception_handling）
+[更多](http://en.wikipedia.org/wiki/Exception_handling)
 
 #### Exception类
 
