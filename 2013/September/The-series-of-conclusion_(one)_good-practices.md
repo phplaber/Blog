@@ -12,7 +12,7 @@
 
 **好的实践** （作者的做法）：
 
-	$arrChartData[] = array();
+	$arrChartData = array();
 	...
 	while($row = $res->fetch_assoc()) {
 	    $arrChartData[] = $row;
